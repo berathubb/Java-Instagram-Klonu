@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401314920096",
+    "project_id": "instagramklon-6fc42",
+    "storage_bucket": "instagramklon-6fc42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401314920096:android:5b9645341920283991fbc5",
+        "android_client_info": {
+          "package_name": "com.beratates.instagramklonu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401314920096-bud3p3b0dm9bivlmfr2agu5dtvsm1mb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7h2Y5f1NQ9WRzjOhuNK8ZF5Helxq2M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401314920096-bud3p3b0dm9bivlmfr2agu5dtvsm1mb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
